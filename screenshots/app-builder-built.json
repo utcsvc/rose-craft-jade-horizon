@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Відключення світла — Миколаївська область",
+      "hasCanvas": false,
+      "bodyTextLen": 456,
+      "bodyTextHash": "22656d50f736bc98aaf72ddf6d03a323dc8fdb7f377f2a65586c9ffe4e946f74",
+      "bodyTextPrefix": "СВІТЛО.МК МИКОЛАЇВ КИЇВ 22:39:19 ГРАФІК · МИКОЛАЇВЩИНА Відключен",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Відключення світла — Миколаївська область",
+      "hasCanvas": false,
+      "bodyTextLen": 456,
+      "bodyTextHash": "9193b2a38e7ee2f44e8399b6e46dbdf049f3d078cd1619f6f0662db5631fe3b1",
+      "bodyTextPrefix": "СВІТЛО.МК МИКОЛАЇВ КИЇВ 22:39:20 ГРАФІК · МИКОЛАЇВЩИНА Відключен",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
